@@ -38,3 +38,8 @@ Explain the concept of an infinite loop and provide an example. How can you brea
 Question 5:
 
 Implement a function that takes an array of integers as input and returns the average of the elements.
+
+Hello World!
+Hello World!
+Hello World!
+Hello World!
