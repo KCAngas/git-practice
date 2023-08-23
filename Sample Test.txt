@@ -40,12 +40,5 @@ Question 5:
 Implement a function that takes an array of integers as input and returns the average of the elements.
 
 Hello World!
-Hello World!
-Hello World!
-Hello World!
-Nakakapagod na!
-Nakakapagod na!
-Nakakapagod na!
-Nakakapagod na!
 Nakakapagod na!
 
